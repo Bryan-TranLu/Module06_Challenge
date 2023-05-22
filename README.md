@@ -15,11 +15,6 @@ import hvplot.pandas
 from pathlib import Path
 ```
 
-## Visuals
-The following image is produced by running the script using `Voilà` in Terminal.
-
-![Image Link](https://github.com/Bryan-TranLu/Module07_Challenge/blob/main/Voila%20Screenshot.png)
-
 ## Usage
 
 ## Authors and Support
